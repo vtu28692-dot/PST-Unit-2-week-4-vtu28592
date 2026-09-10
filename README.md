@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu28692-dot/PST-Unit-2-week-4-vtu28592/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/vtu28692-dot/PST-Unit-2-week-4-vtu28592/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu28692-dot/PST-Unit-2-week-4-vtu28592/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/vtu28692-dot/PST-Unit-2-week-4-vtu28592/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
